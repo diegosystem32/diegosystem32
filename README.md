@@ -1,4 +1,4 @@
-### Oi! Sou Diego Sobral, Analista e Densenvolvedor de Sistemas 👋
+### Oi! Sou Diego Sobral Santos, Analista e Densenvolvedor de Sistemas 👋
 
 <!--
 **diegosystem32/diegosystem32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
